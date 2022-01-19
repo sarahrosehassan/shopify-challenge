@@ -19,3 +19,4 @@ https://www.python.org/downloads/release/python-374/
 4. Open the following address in your web browser:
 http://localhost:5000
 
+![Untitled (2)](https://user-images.githubusercontent.com/59797227/150237330-f5108387-a022-43bc-b5c7-6db6b00e4fde.png)
