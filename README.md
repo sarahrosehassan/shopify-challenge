@@ -1,5 +1,7 @@
 # shopify-challenge
-
+https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/
+- Push a button product data to a CSV
+- 
 How to run the web application
 
 Python and Flask framework are used in this application.
@@ -15,3 +17,4 @@ python main.py
 
 4. Open the following address in your web browser:
 http://localhost:5000
+
