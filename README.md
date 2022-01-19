@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/
 
 How to run the web application
 
-Python and Flask framework are used in this application.
+Python and the Flask framework are used in this application.
 
 1. Download Python 3.7.4:
 https://www.python.org/downloads/release/python-374/
