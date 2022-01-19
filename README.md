@@ -3,7 +3,7 @@
 
 - Push a button product data to a CSV
 
-How to run the web application
+# How to Run The Web Application
 
 Python and the Flask framework are used in this application.
 
