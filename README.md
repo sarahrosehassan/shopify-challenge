@@ -1,5 +1,5 @@
 # shopify-challenge
-[Backend Challenge Summer 2022](https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/).
+[Backend Challenge Summer 2022](https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/)
 
 - Push a button product data to a CSV
 
