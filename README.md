@@ -19,7 +19,8 @@ https://www.python.org/downloads/release/python-374/
 4. Open the following address in your web browser:
 http://localhost:5000
 
-![Untitled (2)](https://user-images.githubusercontent.com/59797227/150237330-f5108387-a022-43bc-b5c7-6db6b00e4fde.png)
+<img width="257" alt="Screen Shot 2022-01-20 at 1 54 08 PM" src="https://user-images.githubusercontent.com/59797227/150403615-4d5227f0-4394-4484-8954-80e257a194a2.png">
+
 
 <img width="272" alt="Screen Shot 2022-01-20 at 1 52 50 PM" src="https://user-images.githubusercontent.com/59797227/150403478-812d83d5-0d1f-43f9-8804-f964417be05e.png">
 
