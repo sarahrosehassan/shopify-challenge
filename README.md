@@ -14,6 +14,7 @@ https://www.python.org/downloads/release/python-374/
 ```pip install -r requirements.txt```
 
 3. Open the command line in your python directory, then move to the project folder and run a command:
+
 ```python main.py```
 
 4. Open the following address in your web browser:
