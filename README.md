@@ -21,4 +21,6 @@ http://localhost:5000
 
 ![Untitled (2)](https://user-images.githubusercontent.com/59797227/150237330-f5108387-a022-43bc-b5c7-6db6b00e4fde.png)
 
-![Untitled (3)](https://user-images.githubusercontent.com/59797227/150237404-b3f5be5b-7d6b-49d5-9484-d134f0d3b9c8.png)
+<img width="272" alt="Screen Shot 2022-01-20 at 1 52 50 PM" src="https://user-images.githubusercontent.com/59797227/150403478-812d83d5-0d1f-43f9-8804-f964417be05e.png">
+
+<img width="343" alt="Screen Shot 2022-01-20 at 1 52 25 PM" src="https://user-images.githubusercontent.com/59797227/150403483-56d39adf-aa34-40a8-af57-46ee153f92c9.png">
